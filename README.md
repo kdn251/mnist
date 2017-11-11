@@ -98,4 +98,8 @@ for e in range(1, 150):
     else:
         break
 print("\nFinal Results\n-------------\n""Loss:", best_test_loss, "Test Accuracy: ", test_accuracy)
+
+    Final Results
+    -------------
+    Loss: 1.60090330081245 Test Accuracy:  0.8987
 ```
